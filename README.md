@@ -24,4 +24,4 @@ Here are some ideas to get you started:--!>
     <p> - I've only ever been to two concerts in my life - Nick Jonas/Demi Lovato and Cody Johnson. </p>
     <p> - My mom was born and raised in Quebec and is fluent in french, but I don't know a single sentence.</p>
 </ul>
--->
+--> <img src="../pic of me/DSC_2962.Edit.jpg" height="200" width="200" alt="a picture of me, blonde with a blue shirt and black jeans, and my horse, a chestnut with a little white mark on her forehead. We are posed on a fence, with a sunset in the background.">
