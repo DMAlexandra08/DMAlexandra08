@@ -17,6 +17,6 @@ Here are some ideas to get you started:--!>
 <ul>
     <p>email: alexandra.armstrong@edu.sait.ca</p>
 </ul>
-- 😄 Pronouns: ...<br>
+- 😄 Pronouns: She/her<br>
 - ⚡ Fun fact: ...<br>
 -->
