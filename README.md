@@ -16,7 +16,6 @@ Here are some ideas to get you started:--!>
 - 📫 How to reach me:<br>
 <ul>
     <p>email: alexandra.armstrong@edu.sait.ca</p>
-    <p>phone: 403 305 5789</p>
 </ul>
 - 😄 Pronouns: ...<br>
 - ⚡ Fun fact: ...<br>
