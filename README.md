@@ -10,7 +10,7 @@ Here are some ideas to get you started:--!>
 </header>
 
 - 🔭 I currently am working on no new projects - but that will change once our class works on new projects and I learn the ways around Github and VS Code.<br>
-- 🌱 I’m currently learning <br>
+- 🌱 I’m currently learning how to work my way around GitHub, VS Code, and the ways of code. It's been quite the learning process - but practice makes progress.<br>
 - 👯 I’m looking to collaborate on ... <br>
 - 🤔 I’m looking for help with ... <br>
 - 💬 Ask me about ... <br>
