@@ -18,5 +18,10 @@ Here are some ideas to get you started:--!>
     <p>email: alexandra.armstrong@edu.sait.ca</p>
 </ul>
 - 😄 Pronouns: She/her<br>
-- ⚡ Fun fact: ...<br>
+- ⚡ Fun facts: A few fun and interesting facts about me;
+<ul>
+    <p> - I learned how to waterski when I was 15 years old - taught by professionals using their speed boat.</p><br>
+    <p> - I've only ever been to two concerts in my life - Nick Jonas/Demi Lovato and Cody Johnson. </p>
+    <p> - My mom was born and raised in Quebec and is fluent in french, but I don't know a single sentence.</p>
+</ul>
 -->
