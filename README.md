@@ -13,7 +13,11 @@ Here are some ideas to get you started:--!>
 - 🌱 I’m currently learning how to work my way around GitHub, VS Code, and the ways of code. It's been quite the learning process - but practice makes progress.<br>
 - 🤔 I’m looking for help with how to get more efficient in GitHub and how to learn the shortcuts in a quite and effective way, so I'm not spending extra time typing out tons of code. <br>
 - 💬 Ask me about my hobbies! I love to read, write, and listen to music. I enjoy excersize, and learning new things (obviously, starting to learn how to code!) <br>
-- 📫 How to reach me: ...<br>
+- 📫 How to reach me:<br>
+<ul>
+    <p>email: alexandra.armstrong@edu.sait.ca</p>
+    <p>phone: 403 305 5789</p>
+</ul>
 - 😄 Pronouns: ...<br>
 - ⚡ Fun fact: ...<br>
 -->
