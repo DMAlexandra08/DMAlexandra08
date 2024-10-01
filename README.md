@@ -6,7 +6,7 @@
 Here are some ideas to get you started:--!>
 
 <header>
-    <h2>My name is Alexandra Armstrong, and I am a first year student at SAIT, completing my IDD Graphic Design Major course.
+    <h3>My name is Alexandra Armstrong, and I am a first year student at SAIT, completing my IDD Graphic Design Major course.</h3>
 </header>
 
 - 🔭 I currently am working on no new projects - but that will change once our class works on new projects and I learn the ways around Github and VS Code.<br><br>
