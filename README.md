@@ -6,7 +6,6 @@
 Here are some ideas to get you started:--!>
 
 <header>
-    <h1>Nice to meet you!</h1>
     <h2>My name is Alexandra Armstrong, and I am a first year student at SAIT, completing my IDD Graphic Design Major course.
 </header>
 
